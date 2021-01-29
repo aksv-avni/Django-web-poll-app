@@ -1,2 +1,2 @@
 # Django-web-poll-app
-### I am making a website using django framework
+### I am working on the official Django web-poll app tutorial.
